@@ -1,158 +1,246 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rakshit%20Mishra&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Where%20Curiosity%20Meets%20Code&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rakshit%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Where%20Curiosity%20Meets%20Code%20%E2%9C%A6&descAlignY=62&descSize=20&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=750&lines=18+y%2Fo+CS+Engineer+%7C+JECRC+University+%F0%9F%8E%93;Cloud+%E2%98%81%EF%B8%8F+%7C+Cybersecurity+%F0%9F%94%90+%7C+AI%2FML+%F0%9F%A4%96+%7C+Blockchain+%E2%9B%93;Core+Team+%40+JECRC+Incubation+Centre+%F0%9F%9A%80;IIT+Roorkee+Rover+Project+Collaborator+%F0%9F%A4%96;Freelance+Developer+%26+Graphic+Designer+%F0%9F%8E%A8;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=CS+Engineering+Student+%40+JECRC+University;Cloud+%7C+Cybersecurity+%7C+AI+%7C+Blockchain;Freelance+Developer+%26+Graphic+Designer;Building+the+future%2C+one+line+at+a+time.)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/rakshit0229a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Rakshit02/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="mailto:rakshitmishra029@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshitmishra)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rakshitmishra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakshitmishra.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitmishra@email.com)
+![Profile Views](https://komarev.com/ghpvc/?username=rakshitmishra&label=Profile+Views&color=7C3AED&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/rakshitmishra?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-```yaml
-name      : Rakshit Mishra
-age       : 18
-location  : Jaipur, Rajasthan, India
-degree    : B.Tech — Computer Science Engineering @ JECRC University
-focus     : Cloud · Cybersecurity · AI/ML · Blockchain
-motto     : "I don't just learn technology — I build with it."
+### `> whoami`
+
+```python
+class RakshitMishra:
+    def __init__(self):
+        self.name       = "Rakshit Mishra"
+        self.age        = 18
+        self.location   = "Jaipur, Rajasthan 🇮🇳"
+        self.university = "JECRC University — B.Tech CSE"
+        self.domains    = ["Cloud", "Cybersecurity", "AI/ML", "Blockchain"]
+        self.currently  = "Building. Learning. Breaking things. Fixing them."
+        self.motto      = "I don't just learn technology — I build with it."
+
+    def ambition(self):
+        return "Build meaningful tech that empowers people & shapes the future 🌍"
 ```
 
-🚀 **Core Team Member** @ [JECRC Incubation Centre (JIC)](https://jecrc.ac.in) — leading Operations, Outreach & Innovation  
-🤖 **Collaborated** on the **IIT Roorkee Rover Project** — Robotics & Embedded Systems in a real-world engineering environment  
-🎨 **Freelance Developer & Graphic Designer** — delivered logos, websites, and brand visuals for real clients  
+<br clear="right"/>
 
 ---
 
-## 🌱 What I'm Working On
-
-- ☁️ Deepening expertise across **Multi-Cloud platforms** (AWS · GCP · Azure · Oracle · IBM)
-- 🔐 Exploring **Cybersecurity** fundamentals and network defense strategies
-- 🤖 Building projects at the intersection of **Generative AI & Cloud**
-- ⛓️ Learning **Blockchain Development** — Smart Contracts & Web3
-- 🔭 Seeking **internship opportunities** in Software Dev · Cloud · DevOps · AI/ML · Cybersecurity
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🔐 Cybersecurity
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### ⛓️ Blockchain
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### 🎨 Design & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🏅 Certifications
-
-> Industry-recognized credentials from the world's leading tech organizations
+### 🔥 Highlights
 
 <table>
 <tr>
-<td><strong>☁️ Cloud</strong></td>
-<td>AWS Cloud Practitioner · Google Cloud · Oracle Cloud · IBM Cloud · Gen AI (GCP)</td>
+<td width="50px" align="center">🏢</td>
+<td><strong>Core Team Member @ JECRC Incubation Centre (JIC)</strong><br/>Leading Operations, Outreach & Innovation initiatives across JECRC University</td>
 </tr>
 <tr>
-<td><strong>🤖 AI & ML</strong></td>
-<td>Azure AI Fundamentals · AI Fundamentals (IBM) · Elements of AI (Univ. of Helsinki)</td>
+<td align="center">🤖</td>
+<td><strong>IIT Roorkee Rover Project Collaborator</strong><br/>Applied Robotics & Embedded Systems in a real-world engineering environment</td>
 </tr>
 <tr>
-<td><strong>🔐 Cybersecurity</strong></td>
-<td>Junior Cybersecurity Analyst (Cisco) · Cybersecurity Fundamentals (IBM)</td>
-</tr>
-<tr>
-<td><strong>⛓️ Blockchain & DevOps</strong></td>
-<td>Blockchain Basics (Cyfrin) · LFS101 Linux · Kubernetes · DevOps & SRE</td>
-</tr>
-<tr>
-<td><strong>📊 Data & Web</strong></td>
-<td>Data Fundamentals · Web Dev Fundamentals · Digital Marketing (Google)</td>
-</tr>
-<tr>
-<td><strong>💰 Finance</strong></td>
-<td>Goldman Sachs — Risk · Internal Audit · Controllers · Operations Simulations</td>
+<td align="center">🎨</td>
+<td><strong>Freelance Developer & Graphic Designer</strong><br/>Delivered logos, websites & brand visuals for real clients — sharpening problem-solving & communication</td>
 </tr>
 </table>
 
+---
+
+### 🛠️ Tech Arsenal
+
 <div align="center">
 
-**Certified by:** `IBM` · `AWS` · `Microsoft` · `Google` · `Oracle` · `Cisco` · `Cyfrin` · `Linux Foundation` · `Univ. of Helsinki` · `Forage`
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### ☁️ Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white)
+
+#### ⚙️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+#### 🔐 Cybersecurity
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+
+#### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### ⛓️ Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+#### 🎨 Design & Hardware
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 🏅 Certifications
+
+<details>
+<summary><b>☁️ Cloud Computing</b> — Click to expand</summary>
+<br/>
+
+- ✅ AWS Cloud Practitioner *(Amazon Web Services)*
+- ✅ Google Cloud Fundamentals *(Google)*
+- ✅ Oracle Cloud Infrastructure *(Oracle)*
+- ✅ IBM Cloud Essentials *(IBM)*
+- ✅ Generative AI on Google Cloud *(GCP)*
+
+</details>
+
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b> — Click to expand</summary>
+<br/>
+
+- ✅ Azure AI Fundamentals *(Microsoft)*
+- ✅ AI Fundamentals *(IBM)*
+- ✅ Elements of AI *(University of Helsinki)*
+
+</details>
+
+<details>
+<summary><b>🔐 Cybersecurity</b> — Click to expand</summary>
+<br/>
+
+- ✅ Junior Cybersecurity Analyst Career Path *(Cisco)*
+- ✅ Cybersecurity Fundamentals *(IBM)*
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain & DevOps</b> — Click to expand</summary>
+<br/>
+
+- ✅ Blockchain Basics *(Cyfrin)*
+- ✅ LFS101: Introduction to Linux *(Linux Foundation)*
+- ✅ Kubernetes Fundamentals *(Linux Foundation)*
+- ✅ DevOps & Site Reliability Engineering *(Linux Foundation)*
+
+</details>
+
+<details>
+<summary><b>📊 Data, Web & Finance</b> — Click to expand</summary>
+<br/>
+
+- ✅ Data Fundamentals *(IBM)*
+- ✅ Web Development Fundamentals
+- ✅ Digital Marketing *(Google)*
+- ✅ Goldman Sachs — Risk, Internal Audit, Controllers & Operations Simulations *(Forage)*
+
+</details>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitmishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitmishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+**Certified by:**
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitmishra&theme=tokyonight&hide_border=true" height="170"/>
+![IBM](https://img.shields.io/badge/IBM-1261FE?style=flat-square&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Linux Foundation](https://img.shields.io/badge/Linux_Foundation-003778?style=flat-square&logo=linux-foundation&logoColor=white)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+### 📊 GitHub Stats
 
 <div align="center">
 
-I'm actively seeking **internship opportunities** in:
-
-`Software Development` · `Cloud Engineering` · `DevOps` · `Cybersecurity` · `AI/ML` · `Blockchain`
-
-> *"Engineering isn't just a career — it's my way of building the future."*
+<img src="https://github-readme-stats.vercel.app/api?username=rakshitmishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitmishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitmishra&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitmishra&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="49%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rakshitmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+</div>
+
+---
+
+### 🤝 Open To Opportunities
+
+<div align="center">
+
+> *"I thrive in environments that challenge me to think beyond the obvious,*
+> *build systems that matter, and collaborate with people passionate about shaping the future of technology."*
+
+<br/>
+
+**Actively seeking internships in:**
+
+`Software Development` &nbsp;•&nbsp; `Cloud Engineering` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Cybersecurity` &nbsp;•&nbsp; `AI/ML` &nbsp;•&nbsp; `Blockchain`
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rakshit0229a">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rakshitmishra029@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*"Engineering isn't just a career — it's my way of building the future."* ⚡
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
