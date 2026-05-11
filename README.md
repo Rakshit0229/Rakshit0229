@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=750&lines=18+y%2Fo+CS+Engineer+%7C+JECRC+University+%F0%9F%8E%93;Cloud+%E2%98%81%EF%B8%8F+%7C+Cybersecurity+%F0%9F%94%90+%7C+AI%2FML+%F0%9F%A4%96+%7C+Blockchain+%E2%9B%93;Core+Team+%40+JECRC+Incubation+Centre+%F0%9F%9A%80;IIT+Roorkee+Rover+Project+Collaborator+%F0%9F%A4%96;Freelance+Developer+%26+Graphic+Designer+%F0%9F%8E%A8;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=18+y%2Fo+CS+Engineer+%7C+JECRC+University+%F0%9F%8E%93;Cloud+%E2%98%81%EF%B8%8F+%7C+Cybersecurity+%F0%9F%94%90+%7C+AI%2FML+%F0%9F%A4%96+%7C+Blockchain+%E2%9B%93;Core+Team+%40+JECRC+Incubation+Centre+%F0%9F%9A%80;IIT+Roorkee+Rover+Project+Collaborator+%F0%9F%A4%96;Freelance+Developer+%26+Graphic+Designer+%F0%9F%8E%A8;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -49,6 +49,18 @@ class RakshitMishra:
 ```
 
 <br clear="right"/>
+
+---
+
+### 🔨 Currently Building
+
+```yaml
+🔨 Building   : Cloud-based portfolio site deployed on AWS S3 + CloudFront
+📖 Learning   : Smart Contract development with Solidity & Hardhat
+🎯 Goal       : Land a high-impact internship in Cloud / AI / Cybersecurity
+```
+
+> 💡 *Update this section regularly — it shows you're always in motion!*
 
 ---
 
@@ -212,6 +224,65 @@ class RakshitMishra:
 
 ---
 
+### ⏱️ Coding Activity *(powered by WakaTime)*
+
+<div align="center">
+
+<!--
+  ⚠️ SETUP REQUIRED before this section works:
+  1. Sign up at https://wakatime.com and install the VS Code extension
+  2. Go to your GitHub repo Settings → Secrets → Add secret: WAKATIME_API_KEY
+  3. Add the WakaTime workflow (see waka.yml in .github/workflows/)
+  Once set up, this card auto-updates every day!
+-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakshitmishra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="70%"/>
+
+</div>
+
+---
+
+### 🎵 Vibing To
+
+<div align="center">
+
+<!--
+  ⚠️ SETUP REQUIRED before this section works:
+  1. Go to https://spotify-github-profile.kittinan.dev
+  2. Log in with Spotify & authorize
+  3. Copy the generated markdown and replace the src URL below with your own unique URL
+-->
+
+[![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=7C3AED&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
+
+</div>
+
+---
+
+### 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ### 🤝 Open To Opportunities
 
 <div align="center">
@@ -239,8 +310,8 @@ class RakshitMishra:
 
 *"Engineering isn't just a career — it's my way of building the future."* ⚡
 
+</div>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
