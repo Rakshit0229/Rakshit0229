@@ -22,8 +22,8 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rakshitmishra&label=Profile+Views&color=7C3AED&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/rakshitmishra?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Rakshit0229&label=Profile+Views&color=7C3AED&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Rakshit0229?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
 
 </div>
 
@@ -208,17 +208,17 @@ class RakshitMishra:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshitmishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshitmishra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakshit0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit0229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitmishra&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshitmishra&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rakshitmishra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rakshit0229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -236,7 +236,7 @@ class RakshitMishra:
   Once set up, this card auto-updates every day!
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakshitmishra&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rakshit0229&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="70%"/>
 
 </div>
 
@@ -274,9 +274,9 @@ class RakshitMishra:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/rakshitmishra/rakshitmishra/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakshit0229/Rakshit0229/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakshit0229/Rakshit0229/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Rakshit0229/Rakshit0229/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
