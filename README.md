@@ -253,7 +253,7 @@ class RakshitMishra:
   3. Copy the generated markdown and replace the src URL below with your own unique URL
 -->
 
-[![Spotify]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&redirect=true))
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&redirect=true)
 
 </div>
 
@@ -296,7 +296,7 @@ class RakshitMishra:
 
 `Software Development` &nbsp;•&nbsp; `Cloud Engineering` &nbsp;•&nbsp; `DevOps` &nbsp;•&nbsp; `Cybersecurity` &nbsp;•&nbsp; `AI/ML` &nbsp;•&nbsp; `Blockchain`
 
-<br
+<br/>
 
 <a href="https://www.linkedin.com/in/rakshit0229a">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
