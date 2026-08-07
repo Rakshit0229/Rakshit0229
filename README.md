@@ -211,7 +211,7 @@ class RakshitMishra:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="49%"/>
 
 <br/><br/>
@@ -222,19 +222,15 @@ class RakshitMishra:
 
 ---
 
-### ⏱️ Coding Activity *(powered by WakaTime)*
+### ⚔️ LeetCode Stats
 
 <div align="center">
 
-<!--
-  ⚠️ SETUP REQUIRED before this section works:
-  1. Sign up at https://wakatime.com and install the VS Code extension
-  2. Go to your GitHub repo Settings → Secrets → Add secret: WAKATIME_API_KEY
-  3. Add the WakaTime workflow (see waka.yml in .github/workflows/)
-  Once set up, this card auto-updates every day!
--->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Rakshit02?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/Rakshit02/)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rakshit0229&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="70%"/>
+<br/>
+
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Rakshit02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rakshit02/)
 
 </div>
 
