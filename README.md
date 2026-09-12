@@ -206,17 +206,17 @@ class RakshitMishra:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakshit0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit0229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakshit0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit0229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true&color=7C3AED&line=7C3AED&point=ffffff" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&dates=888888" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakshit0229&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
 
 </div>
 
@@ -230,7 +230,7 @@ class RakshitMishra:
 
 <br/>
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Rakshit02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rakshit02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rakshit02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rakshit02/)
 
 </div>
 
