@@ -44,7 +44,6 @@ const rakshit = {
   edu      : "B.Tech CSE — JECRC University",
   roles    : [
     "Core Team → JECRC Incubation Centre",
-    "Incoming Operations Head @ JIC",
     "Freelance Dev & Graphic Designer",
     "Founder — PHOSPHOR Fashion Brand",
   ],
@@ -68,7 +67,7 @@ const rakshit = {
 ### ◈ &nbsp;Current Status
 
 ```yaml
-role      : Core Team @ JECRC Incubation Centre → Incoming Ops Head
+role      : Core Team @ JECRC Incubation Centre
 building  : KrishiSeva — Govt AgriTech platform for DoCA, Ministry of India
 learning  : Smart Contracts · Solidity · Hardhat
 solving   : DSA on LeetCode (auto-synced → github.com/Rakshit0229/DSA 🟩)
