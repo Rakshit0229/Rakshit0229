@@ -29,10 +29,6 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="54%">
-
 ### `$ whoami`
 
 ```typescript
@@ -46,20 +42,13 @@ const rakshit: Developer = {
     "Founder — PHOSPHOR Fashion Brand",
   ],
   ships    : ["KrishiSeva 🌾", "PHOSPHOR 👗", "VELOCE 🏎️"],
-  domains  : ["Cloud ☁️","Web3 ⛓️","AI/ML 🤖","Cybersec 🔐"],
+  domains  : ["Cloud ☁️", "Web3 ⛓️", "AI/ML 🤖", "Cybersec 🔐"],
   now      : "Building. Shipping. Iterating. 🚀",
   motto    : "I don't learn tech. I build with it.",
 };
 ```
 
-</td>
-<td valign="top" width="46%">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:8px"/>
-
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
 
 ---
 
