@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0f,60:00b4d8,100:6d28d9&height=280&section=header&text=Rakshit%20Mishra&fontSize=72&fontColor=e2e8f0&fontAlignY=42&desc=%3C%20engineering%20the%20future%20%2F%3E&descAlignY=63&descSize=20&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Rakshit%20Mishra&fontSize=72&fontColor=a78bfa&fontAlignY=42&desc=%3C%20engineering%20the%20future%20%2F%3E&descAlignY=63&descSize=20&descColor=7c3aed&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -13,10 +13,10 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117&labelColor=0d1117"/>
 </a>
 <a href="mailto:rakshitmishra029@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Rakshit0229" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -321,7 +321,7 @@ target    : Internship — Cloud / AI / Cybersecurity / Full-Stack
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -406,4 +406,4 @@ target    : Internship — Cloud / AI / Cybersecurity / Full-Stack
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:00b4d8,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&rotate=180" width="100%"/>
