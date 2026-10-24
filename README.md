@@ -1,12 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rakshit%20Mishra&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Where%20Curiosity%20Meets%20Code%20%E2%9C%A6&descAlignY=62&descSize=20&animation=twinkling" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,40:00d4ff,100:7c3aed&height=260&section=header&text=Rakshit%20Mishra&fontSize=70&fontColor=ffffff&fontAlignY=50&desc=Building%20Real%20Things%20%E2%80%94%20Cloud%20%7C%20Web3%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=70&descSize=16&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=18+y%2Fo+CS+Engineer+%7C+JECRC+University+%F0%9F%8E%93;Cloud+%E2%98%81%EF%B8%8F+%7C+Cybersecurity+%F0%9F%94%90+%7C+AI%2FML+%F0%9F%A4%96+%7C+Blockchain+%E2%9B%93;Core+Team+%40+JECRC+Incubation+Centre+%F0%9F%9A%80;IIT+Roorkee+Rover+Project+Collaborator+%F0%9F%A4%96;Freelance+Developer+%26+Graphic+Designer+%F0%9F%8E%A8;Building+the+future%2C+one+commit+at+a+time+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+Cloud+Engineer+%E2%98%81%EF%B8%8F;Blockchain+%E2%9B%93+%7C+Cybersecurity+%F0%9F%94%90+%7C+AI%2FML+%F0%9F%A4%96;Core+Team+%40+JECRC+Incubation+Centre+%F0%9F%9A%80;Shipping+production-grade+products+since+day+one+%F0%9F%9F%A9;PHOSPHOR+%F0%9F%91%97+%7C+VELOCE+%F0%9F%8F%8E%EF%B8%8F+%7C+KrishiSeva+%F0%9F%8C%BE;Open+to+internships+in+Cloud+%2F+AI+%2F+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,176 +15,284 @@
 <a href="mailto:rakshitmishra029@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://github.com/Rakshit0229" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rakshit0229&label=Profile+Views&color=7C3AED&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Rakshit0229?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=Rakshit0229&label=Profile+Views&color=00d4ff&style=flat-square)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Rakshit0229?label=Followers&style=flat-square&color=7c3aed)&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Rakshit0229?label=Stars&style=flat-square&color=00d4ff)
 
 </div>
 
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-### `> whoami`
-
-```python
-class RakshitMishra:
-    def __init__(self):
-        self.name       = "Rakshit Mishra"
-        self.age        = 18
-        self.location   = "Jaipur, Rajasthan 🇮🇳"
-        self.university = "JECRC University — B.Tech CSE"
-        self.domains    = ["Cloud", "Cybersecurity", "AI/ML", "Blockchain"]
-        self.currently  = "Building. Learning. Breaking things. Fixing them."
-        self.motto      = "I don't just learn technology — I build with it."
-
-    def ambition(self):
-        return "Build meaningful tech that empowers people & shapes the future 🌍"
-```
-
-<br clear="right"/>
+<br/>
 
 ---
-
-### 🔨 Currently Building
-
-```yaml
-🔨 Building   : Cloud-based portfolio site deployed on AWS S3 + CloudFront
-📖 Learning   : Smart Contract development with Solidity & Hardhat
-🎯 Goal       : Land a high-impact internship in Cloud / AI / Cybersecurity
-```
-
----
-
-### 🔥 Highlights
 
 <table>
 <tr>
-<td width="50px" align="center">🏢</td>
-<td><strong>Core Team Member @ JECRC Incubation Centre (JIC)</strong><br/>Leading Operations, Outreach & Innovation initiatives across JECRC University</td>
-</tr>
-<tr>
-<td align="center">🤖</td>
-<td><strong>IIT Roorkee Rover Project Collaborator</strong><br/>Applied Robotics & Embedded Systems in a real-world engineering environment</td>
-</tr>
-<tr>
-<td align="center">🎨</td>
-<td><strong>Freelance Developer & Graphic Designer</strong><br/>Delivered logos, websites & brand visuals for real clients — sharpening problem-solving & communication</td>
+<td valign="top" width="54%">
+
+### `$ whoami`
+
+```typescript
+const rakshit = {
+  name     : "Rakshit Mishra",
+  location : "Jaipur, Rajasthan 🇮🇳",
+  edu      : "B.Tech CSE — JECRC University",
+  roles    : [
+    "Core Team → JECRC Incubation Centre",
+    "Incoming Operations Head @ JIC",
+    "Freelance Dev & Graphic Designer",
+    "Founder — PHOSPHOR Fashion Brand",
+  ],
+  building : ["KrishiSeva 🌾", "PHOSPHOR 👗", "VELOCE 🏎️"],
+  domains  : ["Cloud ☁️", "Web3 ⛓️", "AI/ML 🤖", "Cybersec 🔐"],
+  status   : "Shipping. Learning. Breaking. Fixing. 🚀",
+};
+```
+
+</td>
+<td valign="top" width="46%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Arsenal
+### ◈ &nbsp;Current Status
+
+```yaml
+role      : Core Team @ JECRC Incubation Centre → Incoming Ops Head
+building  : KrishiSeva — Govt AgriTech platform for DoCA, Ministry of India
+learning  : Smart Contracts · Solidity · Hardhat
+solving   : DSA on LeetCode (auto-synced → github.com/Rakshit0229/DSA 🟩)
+seeking   : Internship — Cloud / AI / Cybersecurity / Full-Stack
+```
+
+---
+
+### ◈ &nbsp;Featured Projects
+
+<table width="100%">
+<tr>
+<td width="48%" valign="top">
+
+**🌾 &nbsp;KrishiSeva (कृषि सेवा)**
+`Sep 2026 – Present`
+
+> Enterprise AgriTech platform for **DoCA, Ministry of Consumer Affairs**, Government of India — eliminating 12–36h mandi queues and middleman deductions.
+
+**What I built:**
+- Tri-Portal RBAC for Farmers, Mandi Officers & Admins
+- Smart Quota Slot-Booking → wait time 18h → 25 min
+- Zero-Trust IoT Weighbridge integration with auto MSP settlement
+- AI Crop Pre-Assessment (computer vision, moisture %, FAQ standards)
+- Direct Benefit Transfer — payments in 72h to farmer accounts
+- 6-language PWA (Hindi, Punjabi, Bengali, Marathi, Haryanvi, English)
+
+`React.js` `Full-Stack` `IoT` `AI/CV` `RBAC` `DBT` `NDVI`
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+**👗 &nbsp;PHOSPHOR**
+`Full-Stack Fashion E-Commerce · May 2026`
+
+> Production-ready luxury fashion store — from brand identity to backend architecture to live deployment. Solo-built, end-to-end.
+
+**What I built:**
+- Product filtering (price, size, color, category)
+- Auth system with session persistence
+- Cart, orders & PayPal payment flow
+- Dark mode, multi-language (EN/ES/FR), 6-currency switcher
+- Real-time live chat + social sharing
+- ARIA-compliant accessible UI
+
+`React` `React Router` `Framer Motion` `Context API` `InsForge SDK` `Custom CSS` `Lucide React`
+
+</td>
+</tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
+<tr>
+<td width="48%" valign="top">
+
+**🏎️ &nbsp;VELOCE**
+`Premium Automotive Dealership & Rental · May 2026`
+
+> Production-grade luxury car dealership + rental platform — cinematic dark UI, deployed live on Vercel. Every section intentionally designed.
+
+**What I built:**
+- Cinematic dark UI with neon-green accents
+- GSAP staggered side menu + full fleet overlay system
+- Scroll-triggered Framer Motion animations
+- Membership tier system, booking forms, FAQ accordion
+- Full deployment pipeline, DB architecture — owned end-to-end
+
+`React 19` `TypeScript` `Vite` `Tailwind CSS v4` `Framer Motion` `GSAP` `Vercel`
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+**🏢 &nbsp;JECRC Incubation Centre**
+`Core Team Member → Incoming Operations Head`
+
+> Leading Operations, Outreach & Innovation initiatives across JECRC University — bridging student talent with real startup ecosystems.
+
+**What I do:**
+- Manage incubation operations & program logistics
+- Lead outreach and university-wide innovation events
+- Connect founders with mentors, resources & opportunities
+
+<br/>
+
+**🎨 &nbsp;Freelance Work**
+`Developer & Graphic Designer`
+
+> Logos, brand identities, websites & visual systems for real clients. From brief to deployed — independently.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ &nbsp;Tech Stack
 
 <div align="center">
 
-#### 💻 Languages
+**↳ Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### ☁️ Cloud
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white)
+**↳ Frontend & Frameworks**
 
-#### ⚙️ DevOps & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**↳ Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-#### 🔐 Cybersecurity
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+**↳ AI / ML & Security**
 
-#### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-#### ⛓️ Blockchain & Web3
+**↳ Blockchain & Web3**
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
-#### 🎨 Design & Hardware
+**↳ Design & Tools**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 </div>
 
 ---
 
-### 🏅 Certifications
+### ◈ &nbsp;Certifications
 
 <details>
-<summary><b>☁️ Cloud Computing</b> — Click to expand</summary>
+<summary><b>☁️ Cloud Computing</b> &nbsp;·&nbsp; 5 certs — AWS · GCP · Azure · Oracle · IBM</summary>
 <br/>
 
-- ✅ AWS Cloud Practitioner *(Amazon Web Services)*
-- ✅ Google Cloud Fundamentals *(Google)*
-- ✅ Oracle Cloud Infrastructure *(Oracle)*
-- ✅ IBM Cloud Essentials *(IBM)*
-- ✅ Generative AI on Google Cloud *(GCP)*
+| Certification | Issuer |
+|---|---|
+| AWS Cloud Practitioner | Amazon Web Services |
+| Google Cloud Fundamentals | Google |
+| Oracle Cloud Infrastructure | Oracle |
+| IBM Cloud Essentials | IBM |
+| Generative AI on Google Cloud | GCP |
 
 </details>
 
 <details>
-<summary><b>🤖 Artificial Intelligence & Machine Learning</b> — Click to expand</summary>
+<summary><b>🤖 Artificial Intelligence & ML</b> &nbsp;·&nbsp; 3 certs</summary>
 <br/>
 
-- ✅ Azure AI Fundamentals *(Microsoft)*
-- ✅ AI Fundamentals *(IBM)*
-- ✅ Elements of AI *(University of Helsinki)*
+| Certification | Issuer |
+|---|---|
+| Azure AI Fundamentals | Microsoft |
+| AI Fundamentals | IBM |
+| Elements of AI | University of Helsinki |
 
 </details>
 
 <details>
-<summary><b>🔐 Cybersecurity</b> — Click to expand</summary>
+<summary><b>🔐 Cybersecurity</b> &nbsp;·&nbsp; 2 certs — Cisco · IBM</summary>
 <br/>
 
-- ✅ Junior Cybersecurity Analyst Career Path *(Cisco)*
-- ✅ Cybersecurity Fundamentals *(IBM)*
+| Certification | Issuer |
+|---|---|
+| Junior Cybersecurity Analyst Career Path | Cisco |
+| Cybersecurity Fundamentals | IBM |
 
 </details>
 
 <details>
-<summary><b>⛓️ Blockchain & DevOps</b> — Click to expand</summary>
+<summary><b>⛓️ Blockchain & DevOps</b> &nbsp;·&nbsp; 4 certs — Cyfrin · Linux Foundation</summary>
 <br/>
 
-- ✅ Blockchain Basics *(Cyfrin)*
-- ✅ LFS101: Introduction to Linux *(Linux Foundation)*
-- ✅ Kubernetes Fundamentals *(Linux Foundation)*
-- ✅ DevOps & Site Reliability Engineering *(Linux Foundation)*
+| Certification | Issuer |
+|---|---|
+| Blockchain Basics | Cyfrin |
+| LFS101: Introduction to Linux | Linux Foundation |
+| Kubernetes Fundamentals | Linux Foundation |
+| DevOps & Site Reliability Engineering | Linux Foundation |
 
 </details>
 
 <details>
-<summary><b>📊 Data, Web & Finance</b> — Click to expand</summary>
+<summary><b>📊 Data, Web & Finance</b> &nbsp;·&nbsp; 4 certs — IBM · Google · Goldman Sachs</summary>
 <br/>
 
-- ✅ Data Fundamentals *(IBM)*
-- ✅ Web Development Fundamentals
-- ✅ Digital Marketing *(Google)*
-- ✅ Goldman Sachs — Risk, Internal Audit, Controllers & Operations Simulations *(Forage)*
+| Certification | Issuer |
+|---|---|
+| Data Fundamentals | IBM |
+| Web Development Fundamentals | — |
+| Digital Marketing | Google |
+| Risk, Audit & Operations Simulations | Goldman Sachs (Forage) |
 
 </details>
 
 <div align="center">
-
-**Certified by:**
+<br/>
 
 ![IBM](https://img.shields.io/badge/IBM-1261FE?style=flat-square&logo=ibm&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -239,13 +343,6 @@ class RakshitMishra:
 ### 🎵 Vibing To
 
 <div align="center">
-
-<!--
-  ⚠️ SETUP REQUIRED before this section works:
-  1. Go to https://spotify-github-profile.kittinan.dev
-  2. Log in with Spotify & authorize
-  3. Copy the generated markdown and replace the src URL below with your own unique URL
--->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=fjd6yov6u675uug44a5rwve6v&redirect=true)
 
@@ -308,4 +405,4 @@ class RakshitMishra:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7c3aed,60:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
