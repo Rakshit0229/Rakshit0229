@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=280&section=header&text=Rakshit%20Mishra&fontSize=72&fontColor=a78bfa&fontAlignY=42&desc=%3C%20engineering%20the%20future%20%2F%3E&descAlignY=63&descSize=20&descColor=7c3aed&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,100:4c1d95&height=280&section=header&text=Rakshit%20Mishra&fontSize=72&fontColor=a78bfa&fontAlignY=42&desc=%3C%20engineering%20the%20future%20%2F%3E&descAlignY=63&descSize=20&descColor=7c3aed&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const rakshit: Developer = {
 </td>
 <td valign="top" width="46%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:8px;opacity:0.9"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd0dWd6bXVkNHdyaHd3N3FmeWV6ZGJxNGx3NHZxN3M3ZmVyMzZkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:8px"/>
 
 </td>
 </tr>
@@ -311,17 +311,17 @@ target    : Internship — Cloud / AI / Cybersecurity / Full-Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakshit0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakshit0229&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&v=1" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit0229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit0229&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=1" height="175"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&dates=888888" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=Rakshit0229&theme=tokyonight&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="65%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshit0229&theme=tokyo-night&hide_border=true&area=true&v=1" width="100%"/>
 
 </div>
 
@@ -406,4 +406,4 @@ target    : Internship — Cloud / AI / Cybersecurity / Full-Stack
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn&rotate=180" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,100:0d0d1a&height=120&section=footer&animation=fadeIn" width="100%"/>
