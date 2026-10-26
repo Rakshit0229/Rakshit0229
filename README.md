@@ -404,4 +404,4 @@ seeking   : Internship — Cloud / AI / Cybersecurity / Full-Stack
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7c3aed,60:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://camo.githubusercontent.com/012f1da8aff8a42078723349a43ca6f32a1bb8211821c9072b97d60169adc804/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d7761766526636f6c6f723d393333334541266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" alt="Footer Banner" data-canonical-src="https://capsule-render.vercel.app/api?type=wave&amp;color=9333EA&amp;height=100&amp;section=footer" style="max-width: 100%;">
