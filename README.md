@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=064e3b&height=260&section=header&text=Rakshit%20Mishra&fontSize=70&fontColor=ffffff&fontAlignY=50&desc=Building%20Real%20Things%20%E2%80%94%20Cloud%20%7C%20Web3%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=70&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=166534&height=260&section=header&text=Rakshit%20Mishra&fontSize=70&fontColor=ffffff&fontAlignY=50&desc=Building%20Real%20Things%20%E2%80%94%20Cloud%20%7C%20Web3%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=70&descSize=16&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
